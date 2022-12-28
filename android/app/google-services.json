@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229724811947",
+    "project_id": "diatrofi-8daa9",
+    "storage_bucket": "diatrofi-8daa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229724811947:android:d658e5d3c9323c3d5efdee",
+        "android_client_info": {
+          "package_name": "com.example.diatfori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229724811947-bdrp5pelhvf1e06llqbb41poo1nj2ln8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-feI08SqyWwxTVkyRxLWs0diBCuQeiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229724811947-bdrp5pelhvf1e06llqbb41poo1nj2ln8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
